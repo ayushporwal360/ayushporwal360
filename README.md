@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋 I'm Ayush Porwal!</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
@@ -8,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [ayushporwal360](ayushporwal360)
+- 👨‍💻 All of my projects are available at [https://github.com/ayushporwal360](https://github.com/ayushporwal360)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushporwal360&show_icons=true&locale=en" alt="ayushporwal360" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushporwal360&" alt="ayushporwal360" /></p>
+
