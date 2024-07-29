@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ayush Porwal!</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushporwal360&label=Profile%20views&color=0e75b6&style=flat" alt="ayushporwal360" /> </p>
 
 - 🔭 I’m currently working on [Youtube Clone](https://github.com/ayushporwal360/youtube-clone)
 
