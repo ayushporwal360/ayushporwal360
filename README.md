@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-- 🔭 I’m currently working on [Learning Frontend-skills]
+- 🔭 I’m currently working on learning **Frontend-skills**
 
 - 🌱 I’m currently learning **Javascript**
 
