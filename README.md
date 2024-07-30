@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-- 🔭 I’m currently working on [Youtube Clone](https://github.com/ayushporwal360/youtube-clone)
+- 🔭 I’m currently working on [Learning Frontend-skills]
 
 - 🌱 I’m currently learning **Javascript**
 
