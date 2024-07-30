@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayushporwal360](https://linkedin.com/ayushporwal360)
+- 👨‍💻 All of my projects are available at [https://linkedin.com/ayushporwal360]
 
 
 
