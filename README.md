@@ -8,6 +8,7 @@
 
 - 👨‍💻 All of my work is available at [https://linkedin.com/ayushporwal360](https://www.linkedin.com/in/ayushporwal360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+⚡ **Fun fact:**  <br>I love what I do.
 
 
 
