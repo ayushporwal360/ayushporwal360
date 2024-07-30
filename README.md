@@ -11,7 +11,7 @@
 
 <br>
 
-⚡ **Fun fact:**  <br>I love playing video games.
+⚡ **Fun fact:**  <br>I love whatever I do
 
 <br>
 
