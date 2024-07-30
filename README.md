@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋 I'm Ayush Porwal!</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<br>
 
 🔭 I’m currently working on my **Frontend-skills**
 
+
+
 🌱 I’m currently learning **Javascript**
+
+
 
 
 ⚡ **Fun fact:**  <br>I love what I do.
