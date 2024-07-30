@@ -4,16 +4,15 @@
 <br>
 
 🔭 I’m currently working on my **Frontend-skills**
-
-
+<br>
 
 🌱 I’m currently learning **Javascript**
 
-
-
+<br>
 
 ⚡ **Fun fact:**  <br>I love what I do.
 
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
