@@ -3,7 +3,7 @@
 
 <br>
 
-🔭 I’m currently working on my **Frontend-skills**
+🔭 I’m currently working on **Frontend-skills**
 <br>
 <br>
 
