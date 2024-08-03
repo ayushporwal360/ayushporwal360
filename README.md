@@ -19,7 +19,7 @@
 
 - 🌱 I'm currently learning **Javascript**
 
-- 👯 I'm looking to collaborate on **Frontend Web Development**
+- 👯 I'm looking to collaborate as a **Frontend Developer**
 
 - 💬 Ask me about **C, HTML, CSS, Javascript**
 
