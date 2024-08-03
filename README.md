@@ -49,12 +49,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
+<br>
 
 ---
 
 <br>
-<br>
-
 
 ## Connect with me
 
