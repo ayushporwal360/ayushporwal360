@@ -1,48 +1,48 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
+</div>
+
+<br>
+
 <h1 align="center">Hi 👋 I'm Ayush Porwal!</h1>
 <h3 align="center">A passionate web developer from India 🇮🇳</h3>
 
 <br>
 
-🔭 I’m currently working on **Frontend-skills**
-<br>
-<br>
 
-🌱 I’m currently learning **Javascript**
+---
 
-<br>
+## 🚀 About Me
+<table><tr><td valign="top" width="50%">
 
-⚡ **Fun fact:**  <br>I love playing video games
+- 🔭 I'm currently working on **Frontend Projects...**
 
-<br>
+- 🌱 I'm currently learning **Javascript**
 
+- 👯 I'm looking to collaborate on **Frontend Web Development**
+
+- 💬 Ask me about **C, HTML, CSS, Javascript**
+
+- 📫 How to reach me: Email me @, **porwalayush953@gmail.com**
+
+- ⚡ Favourite Quote **'_All power is within you, You can do anything and everything._'**
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+</div></td></tr></table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayushgamer360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushgamer360" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushporwal360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushporwal360" height="30" width="40" /></a>
-<a href="https://instagram.com/porwalayushofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="porwalayushofficial" height="30" width="40" /></a>
-<a href="https://discord.gg/ayushgamer360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayushgamer360" height="30" width="40" /></a>
+<a href="https://x.com/ayushporwal360?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ayushporwal360?s=09" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayushporwal360/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayushporwal360/" height="30" width="40" /></a>
 </p>
 
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushporwal360&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushporwal360&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushporwal360&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushporwal360&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ayushporwal360&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+      
 
 
 
