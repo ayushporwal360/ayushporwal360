@@ -37,7 +37,7 @@
 
 <br>
 
-###🧑‍💻Things I code with
+🧑‍💻Things I code with
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
