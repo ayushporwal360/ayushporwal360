@@ -12,6 +12,7 @@
 
 ---
 
+
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
 
@@ -36,6 +37,7 @@
 
 <br>
 
+
 🧑‍💻Languages I code with
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
@@ -47,9 +49,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
+
 ---
 
+
 <br>
+
 
 
 ## Connect with me
