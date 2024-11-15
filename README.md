@@ -27,7 +27,7 @@
 
 - 📫 How to reach me: Email me @, **porwalayush953@gmail.com**
 
-- ⚡ Favourite Quote: **_I dont believe in quotes, I believe in hardwork_**
+- ⚡ Favourite Quote: **_I dont believe in quotes, I believe in Hardwork_**
 
 </td><td valign="top" width="50%">
 
