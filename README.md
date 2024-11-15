@@ -39,7 +39,7 @@
 <br>
 <br>
 
-🧑‍💻Languages I code with
+🧑‍💻Languages I code with <br>
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
