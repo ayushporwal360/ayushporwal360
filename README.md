@@ -40,7 +40,7 @@
 <br>
 
 🧑‍💻Languages I code with
-![C++](https://github.com/user-attachments/assets/c8b389a5-5799-441a-ad17-e0ad00bfcac1)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
