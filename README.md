@@ -21,7 +21,7 @@
 
 - 🌱 I'm currently learning **C++ & DSA**
 
-- 👯 I'm looking to collaborate as a **Full Stack Developer**
+- 👯 I'm looking to collaborate as a **Frontend Developer**
 
 - 💬 Ask me about **C, C++, HTML, CSS, Javascript**
 
